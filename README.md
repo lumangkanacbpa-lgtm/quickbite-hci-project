@@ -1,1 +1,1 @@
-# quickbite-hci-project
+# LMS-hci-project
